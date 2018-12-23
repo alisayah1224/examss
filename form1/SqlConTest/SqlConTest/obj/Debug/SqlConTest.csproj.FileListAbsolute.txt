@@ -1,0 +1,10 @@
+C:\Users\CWN\Source\Repos\SqlConTest\SqlConTest\obj\Debug\SqlConTest.csprojResolveAssemblyReference.cache
+C:\Users\CWN\Source\Repos\SqlConTest\SqlConTest\obj\Debug\SqlConTest.Main.resources
+C:\Users\CWN\Source\Repos\SqlConTest\SqlConTest\obj\Debug\SqlConTest.Properties.Resources.resources
+C:\Users\CWN\Source\Repos\SqlConTest\SqlConTest\obj\Debug\SqlConTest.csproj.GenerateResource.Cache
+C:\Users\CWN\Source\Repos\SqlConTest\SqlConTest\obj\Debug\SqlConTest.csproj.CoreCompileInputs.cache
+C:\Users\CWN\Source\Repos\SqlConTest\SqlConTest\bin\Debug\SqlConTest.exe
+C:\Users\CWN\Source\Repos\SqlConTest\SqlConTest\bin\Debug\SqlConTest.pdb
+C:\Users\CWN\Source\Repos\SqlConTest\SqlConTest\obj\Debug\SqlConTest.exe
+C:\Users\CWN\Source\Repos\SqlConTest\SqlConTest\obj\Debug\SqlConTest.pdb
+C:\Users\CWN\Source\Repos\SqlConTest\SqlConTest\bin\Debug\SqlConTest.exe.config
